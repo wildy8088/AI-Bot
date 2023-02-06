@@ -14,9 +14,22 @@ apt update -y; apt upgrade -y; apt install screen nodejs npm nano wget sudo -y
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt --fix-broken install ./google-chrome-stable_current_amd64.deb
 
--- Install AI-Bot
+-- Installation
 git clone https://github.com/wildy8088/AI-Bot.git
 screen -S AI-Bot
+cd AI-Bot
+npm install
+npm start
+```
+
+## Deploy On Windows
+```
+--- Install Requirement
+NodeJS   : https://nodejs.org/en/download/current/
+Git Bash : https://git-scm.com/download/win
+
+--- Installation
+git clone https://github.com/wildy8088/AI-Bot.git
 cd AI-Bot
 npm install
 npm start
