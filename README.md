@@ -40,3 +40,8 @@ npm start
 - [npm](https://www.npmjs.com/package/openai) - OpenAI
 - [npm](https://www.npmjs.com/package/qrcode-terminal) - QRCode Terminal
 - [npm](https://www.npmjs.com/package/whatsapp-web.js) - Whatsapp Web JS API
+
+## Contact
+- [Link](https://t.me/wildy8088) - Telegram
+- [Link](https://t.me/wildy8088_group) - Telegram Group
+- [Link](mailto:admin@wildy.my.id) - Email
