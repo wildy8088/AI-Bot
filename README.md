@@ -1,10 +1,6 @@
 # AI-Bot
 AI-Bot - A Whatsap bot using OpenAI Library
 
-## Bot Contact
-- [LINK](https://wa.me/6289603285828) - BOT Contact
-
-
 ## Bot Usage
 ```
 Group   : .tanya Halo Saya Wildy Sheverando [ tanya is prefix, for prefix u can custom in config.json ]
@@ -53,3 +49,6 @@ npm start
 - [Link](https://t.me/wildy8088) - Telegram
 - [Link](https://t.me/wildy8088_group) - Telegram Group
 - [Link](mailto:admin@wildy.my.id) - Email
+
+## Bot Contact
+- [LINK](https://wa.me/6289603285828) - BOT Contact
