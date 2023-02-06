@@ -34,3 +34,11 @@ cd AI-Bot
 npm install
 npm start
 ```
+
+## Dependencies
+```
+- [npm](https://www.npmjs.com/package/figlet) - Figlet
+- [npm](https://www.npmjs.com/package/openai) - OpenAI
+- [npm](https://www.npmjs.com/package/qrcode-terminal) - QRCode Terminal
+- [npm](https://www.npmjs.com/package/whatsapp-web.js) - Whatsapp Web API
+```
