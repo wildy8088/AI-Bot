@@ -41,6 +41,9 @@ npm start
 - [npm](https://www.npmjs.com/package/qrcode-terminal) - QRCode Terminal
 - [npm](https://www.npmjs.com/package/whatsapp-web.js) - Whatsapp Web JS API
 
+## Traktir Saya
+- [Link](https://saweria.co/wildy8088) - Saweria
+
 ## Contact
 - [Link](https://t.me/wildy8088) - Telegram
 - [Link](https://t.me/wildy8088_group) - Telegram Group
