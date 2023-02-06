@@ -1,5 +1,5 @@
 # AI-Bot
-AI-Bot For Whatsapp
+AI-Bot - A Whatsap bot using OpenAI Library
 
 ## Bot Usage
 ```
