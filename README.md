@@ -1,6 +1,11 @@
 # AI-Bot
 AI-Bot For Whatsapp
 
+## Bot Usage
+```
+Group   : .tanya Halo Saya Wildy Sheverando [ tanya is prefix, for prefix u can custom in config.json ]
+Private : Halo Saya Wildy Sheverando [ No need to use prefix ]
+```
 
 ## Deploy On Linux
 ```
