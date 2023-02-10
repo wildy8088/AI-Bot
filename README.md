@@ -7,6 +7,10 @@ Group   : .tanya Halo Saya Wildy Sheverando [ tanya is prefix, for prefix u can 
 Private : Halo Saya Wildy Sheverando [ No need to use prefix ]
 ```
 
+## Info
+-- Recomed Use Node 18
+https://nodejs.org/en/download/
+
 ## Deploy On Linux
 ```
 -- Install Requirement
